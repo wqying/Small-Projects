@@ -1,1 +1,1 @@
-# test file to make sure git is set up properlyu
+# test file to make sure git is set up properly
