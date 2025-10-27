@@ -1997,7 +1997,7 @@ input, select, textarea {
 
 				#main > .panel.intro .pic {
 					text-decoration: none;
-					position: relative;
+					position: fixed;
 					-moz-flex-grow: 0;
 					-webkit-flex-grow: 0;
 					-ms-flex-grow: 0;
@@ -2022,7 +2022,7 @@ input, select, textarea {
 					}
 
 					#main > .panel.intro .pic img {
-						position: relative;
+						position: fixed;
 						display: block;
 						position: absolute;
 						top: 0;
@@ -2061,7 +2061,7 @@ input, select, textarea {
 					}
 
 						#main > .panel.intro .pic .arrow:before {
-							position: relative;
+							position: fixed;
 							padding-right: 0;
 							top: 0.125em;
 						}
